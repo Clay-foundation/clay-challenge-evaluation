@@ -2,4 +2,3 @@
 *.geojson
 clay-v1-encoder.*
 *.gpkg
-models/*
