@@ -2,3 +2,4 @@
 *.geojson
 clay-v1-encoder.*
 *.gpkg
+*.parquet
